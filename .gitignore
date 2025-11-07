@@ -1,0 +1,32 @@
+# Jekyll / site build
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler and Ruby
+.bundle/
+vendor/
+vendor/bundle/
+
+# Sass / cache
+.sass-cache/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# temporary files
+tmp/
+.cache/
+coverage/
+
+# environment
+.env
+.env.local
+
+# logs
+*.log
