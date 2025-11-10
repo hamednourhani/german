@@ -48,12 +48,30 @@
 1. Ich habe ein großes Stück Kuchen gegessen, weil ich Hunger hatte. (I ate a big piece of cake because I was hungry.)
 2. Du hast ein leckeres Sandwich gegessen, weil du es selbst gemacht hast. (You ate a delicious sandwich because you made it yourself.)
 
+#### **Using "obwohl" (although):**
+1. Ich habe ein großes Stück Kuchen gegessen, obwohl ich keinen Hunger hatte. (I ate a big piece of cake although I wasn’t hungry.)
+2. Du hast ein leckeres Sandwich gegessen, obwohl du schon gegessen hattest. (You ate a delicious sandwich although you had already eaten.)
+
+#### **Using "während" (while):**
+1. Ich habe ein großes Stück Kuchen gegessen, während ich ein Buch gelesen habe. (I ate a big piece of cake while I was reading a book.)
+2. Du hast ein leckeres Sandwich gegessen, während du telefoniert hast. (You ate a delicious sandwich while you were on the phone.)
+
+#### **Using "damit" (so that):**
+1. Ich habe ein großes Stück Kuchen gegessen, damit ich satt werde. (I ate a big piece of cake so that I would be full.)
+2. Du hast ein leckeres Sandwich gegessen, damit du Energie hast. (You ate a delicious sandwich so that you have energy.)
+
+#### **Using "deshalb" (therefore):**
+1. Ich habe ein großes Stück Kuchen gegessen, deshalb bin ich jetzt satt. (I ate a big piece of cake, therefore I am full now.)
+2. Du hast ein leckeres Sandwich gegessen, deshalb bist du jetzt zufrieden. (You ate a delicious sandwich, therefore you are satisfied now.)
+
 ---
 
 ### **4. Final Practice: Complex Sentences**
 
 1. Ich habe gestern ein großes Stück Kuchen in der Küche gegessen, weil ich Hunger hatte, aber es war zu süß. (I ate a big piece of cake in the kitchen yesterday because I was hungry, but it was too sweet.)
 2. Du hast heute ein leckeres Sandwich im Garten gegessen, und du hast ein Glas Wasser getrunken, weil du es selbst gemacht hast. (You ate a delicious sandwich in the garden today, and you drank a glass of water because you made it yourself.)
+3. Ich habe ein großes Stück Kuchen gegessen, obwohl ich keinen Hunger hatte, und ich habe einen Kaffee getrunken, während ich ein Buch gelesen habe. (I ate a big piece of cake although I wasn’t hungry, and I drank a coffee while I was reading a book.)
+4. Du hast ein leckeres Sandwich gegessen, damit du Energie hast, und deshalb bist du jetzt zufrieden. (You ate a delicious sandwich so that you have energy, and therefore you are satisfied now.)
 
 ---
 

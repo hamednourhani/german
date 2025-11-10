@@ -48,12 +48,30 @@
 1. Ich bin in den Park gegangen, weil ich frische Luft brauchte. (I went to the park because I needed fresh air.)
 2. Du bist ins Kino gegangen, weil du den Film sehen wolltest. (You went to the cinema because you wanted to see the movie.)
 
+#### **Using "obwohl" (although):**
+1. Ich bin in den Park gegangen, obwohl es geregnet hat. (I went to the park although it rained.)
+2. Du bist ins Kino gegangen, obwohl du müde warst. (You went to the cinema although you were tired.)
+
+#### **Using "während" (while):**
+1. Ich bin in den Park gegangen, während die Sonne unterging. (I went to the park while the sun was setting.)
+2. Du bist ins Kino gegangen, während es draußen stürmte. (You went to the cinema while it was storming outside.)
+
+#### **Using "damit" (so that):**
+1. Ich bin in den Park gegangen, damit mein Hund spielen konnte. (I went to the park so that my dog could play.)
+2. Du bist ins Kino gegangen, damit du den neuen Film sehen konntest. (You went to the cinema so that you could see the new movie.)
+
+#### **Using "deshalb" (therefore):**
+1. Ich bin in den Park gegangen, deshalb fühle ich mich jetzt besser. (I went to the park, therefore I feel better now.)
+2. Du bist ins Kino gegangen, deshalb bist du jetzt glücklich. (You went to the cinema, therefore you are happy now.)
+
 ---
 
 ### **4. Final Practice: Complex Sentences**
 
 1. Ich bin gestern in den Park mit meinem Hund gegangen, weil ich frische Luft brauchte, aber es hat geregnet. (I went to the park with my dog yesterday because I needed fresh air, but it rained.)
 2. Du bist heute ins Kino mit deinen Freunden gegangen, und du hast einen Film gesehen, weil du den Film sehen wolltest. (You went to the cinema with your friends today, and you watched a movie because you wanted to see the movie.)
+3. Ich bin in den Park gegangen, obwohl es geregnet hat, und ich habe Fußball gespielt, während die Sonne unterging. (I went to the park although it rained, and I played soccer while the sun was setting.)
+4. Du bist ins Kino gegangen, damit du den neuen Film sehen konntest, und deshalb bist du jetzt glücklich. (You went to the cinema so that you could see the new movie, and therefore you are happy now.)
 
 ---
 
