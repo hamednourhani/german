@@ -21,6 +21,7 @@ node_modules/
 
 # temporary files
 tmp/
+temp/
 .cache/
 coverage/
 
