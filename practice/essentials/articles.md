@@ -135,4 +135,117 @@ Optional: convert 5 of your present-tense answers into Perfekt (use haben/sein a
 - Use the teacher's table to check gender and case endings (especially for accusative 'den' and dative 'dem').
 - Practice these drills for 5–10 minutes daily; then try the same sentences in Perfekt and notice auxiliary and participle placement.
 
+## Workbook exercises — Akkusativ / Dativ (from screenshots)
+
+Below are several practice sets transcribed from the workbook pages you attached. Use them as extra drills: mark the correct case, match sentence endings, form Perfekt questions with accusative complements, choose Dativ vs. Akkusativ, and build full sentences while keeping the correct word order (Nominativ, Dativ, Akkusativ).
+
+### 1) Welche Ergänzung hat das Verb? (Markieren: Nominativ / Dativ / Akkusativ)
+Say which complement the verb takes. Mark the correct solution.
+
+Example: Ich brauche ein Auto. (Nominativ / Dativ / Akkusativ)
+
+1. Otto kauft seiner Freundin einen Ring. (N / D / A)
+2. Das Essen schmeckt meinem Mann nicht. (N / D / A)
+3. Das Fahrrad gehört meinem Freund. (N / D / A)
+4. Angela M. ist Politikerin. (N / D / A)
+5. Der Ingenieur zeigt den Gästen die Maschine. (N / D / A)
+6. Herr Klein präsentiert neue Möbel. (N / D / A)
+7. Paul liebt Marie. (N / D / A)
+8. Ich kenne den Kollegen noch nicht. (N / D / A)
+9. Andreas isst am liebsten Spaghetti. (N / D / A)
+10. Monika wird später Ärztin. (N / D / A)
+11. Frau Müller schreibt dem Chef eine E-Mail. (N / D / A)
+12. Die Schuhe passen mir gut. (N / D / A)
+
+### 2) Was passt? (Ordnen Sie zu.)
+Match the sentence starts on the left with the appropriate endings/continuations on the right.
+
+Left
+1. Ich sehe
+2. Wir bezahlen
+3. Wir besuchen
+4. Das Kleid gefällt
+5. Ich schicke
+6. Herr Klein vereinbart
+7. Bruno schenkt
+8. Der Arzt hilft
+9. Frau Krüger beantwortet
+10. Ich möchte bitte
+11. Ich lese
+12. Martin gratuliert
+13. Mein Nachbar ist
+14. Franz trinkt
+
+Right (examples)
+a) dem Kunden eine Bestätigung.
+b) die E-Mail sofort.
+c) die Rechnung sofort.
+d) gerade einen Film.
+e) das Pergamonmuseum.
+f) noch eine Tasse Kaffee.
+g) einen Termin.
+h) seiner Freundin einen Ring.
+i) meinem Freund nicht.
+j) dem Patienten.
+k) Polizist.
+l) keinen Alkohol.
+m) seiner Kollegin zum Geburtstag.
+n) jeden Tag Zeitung.
+
+Match (write the letter for each number):
+- 1. ___   2. ___   3. ___   4. ___   5. ___
+- 6. ___   7. ___   8. ___   9. ___  10. ___
+- 11. ___  12. ___  13. ___  14. ___
+
+### 3) Verben mit Akkusativergänzung — Fragen im Perfekt
+Form questions in the Perfekt as in the example.
+
+Example: du – Suppe – essen
+Hast du die Suppe schon gegessen?
+
+1. ihr – Bild – kaufen → ______________________________________
+2. du – Deutschkurs – bezahlen → ______________________________________
+3. ihr – Hausaufgaben (Pl.) – machen → ______________________________________
+4. du – CD – hören → ______________________________________
+5. du – Zeitung – lesen → ______________________________________
+6. du – Besprechung – vorbereiten → ______________________________________
+7. ihr – Ware – bestellen → ______________________________________
+8. du – Gäste (Pl.) – begrüßen → ______________________________________
+9. du – Termin – notieren → ______________________________________
+10. du – Nachricht – weiterleiten → ______________________________________
+
+### 4) Dativ oder Akkusativ? Markieren Sie die richtige Lösung
+Choose whether the complement is Dativ or Akkusativ.
+
+1. Hast du ___ Gast / ___ den Gast schon abgeholt? (dem Gast / den Gast)
+2. Hast du ___ Chef / ___ den Chef schon gratuliert? (dem Chef / den Chef)
+3. Hast du ___ Techniker / ___ den Techniker schon bestellt? (dem Techniker / den Techniker)
+4. Hast du ___ Professor / ___ den Professor überhaupt zugehört? (dem Professor / den Professor)
+5. Hast du ___ Praktikantin / ___ die Praktikantin schon geholfen? (der Praktikantin / die Praktikantin)
+6. Hast du ___ Direktor / ___ den Direktor schon geantwortet? (dem Direktor / den Direktor)
+7. Hast du ___ deinem Freund / ___ deinen Freund widersprochen? (deinem Freund / deinen Freund)
+8. Hast du ___ dem Film / ___ den Film schon gesehen? (dem Film / den Film)
+9. Hast du ___ der Ausstellung / ___ die Ausstellung schon besucht? (der Ausstellung / die Ausstellung)
+10. Hast du ___ der Kollegin / ___ die Kollegin schon gedankt? (der Kollegin / die Kollegin)
+
+### 5) Bilden Sie Sätze — Wortstellung: Nominativ, Dativ, Akkusativ
+Build full sentences; pay attention to word order.
+
+Base example: das Hotel – gut – den Gästen – gefallen → Das Hotel gefällt den Gästen gut.
+
+1. den Kunden – schnell – helfen – wir → ______________________________________
+2. der Firma – das Auto – gehören → ______________________________________
+3. ein Kochbuch – schenken – Otto – seiner Mutter → ______________________________________
+4. dem Chef – du – das Dokument – zeigen → ______________________________________
+5. mir – du – mitbringen – ein Andenken? → ______________________________________
+6. deinen Stift – du – mir – leihen – können? → ______________________________________
+7. deinen Eltern – Postkarten – aus dem Urlaub – du – schreiben? → ______________________________________
+8. dir – schon wieder – neue Schuhe – du – kaufen? (Perfekt) → ______________________________________
+9. wann – das Fachbuch – ihm – du – geben? (Perfekt) → ______________________________________
+10. den Kollegen – erklären – der Direktor – diese Entscheidung – müssen → ______________________________________
+11. bezahlen – die Rechnung für den Kurs – müssen – alle Teilnehmer → ______________________________________
+12. das Restaurant "La Cachette" – Kollegen aus dem Ausland – wir – empfehlen – immer → ______________________________________
+
+Use these workbook exercises for extra daily practice. If you'd like, I can also add an answer key file (`practice/essentials/grocery-cooking-answers.md`) or mark suggested answers inline (draft). 
+
 *** End of merged practice
